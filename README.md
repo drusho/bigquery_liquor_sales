@@ -5,7 +5,7 @@
 Exploring Public Datasets in Google BigQuery
 #### SQL, Bigquery, Data Wrangling, and Exploratory Data Analysis
 
-<!-- <img src="https://raw.githubusercontent.com/drusho/webscrape_youtube/main/assets/header_youtube_web.png"> -->
+<img src="https://raw.githubusercontent.com/drusho/bigquery_liquor_sales/main/assets/header_liquor.jpeg" height=300 >
 
 <br>
 
