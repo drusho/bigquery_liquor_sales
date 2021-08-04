@@ -3,7 +3,6 @@
 # __Analyzing Iowa Liquor Sales with SQL__
 
 Exploring Public Datasets in Google BigQuery
-#### SQL, Bigquery, Data Wrangling, and Exploratory Data Analysis
 
 <img src="https://raw.githubusercontent.com/drusho/bigquery_liquor_sales/main/assets/header_liquor.jpeg" height=300 >
 
@@ -28,6 +27,8 @@ Determine sales trends for city/counties
 * Popular items sold
 * Locations for highest sales
 * Dates of most sales
+
+<br>
 
 ## Sample of Data Collected
 
