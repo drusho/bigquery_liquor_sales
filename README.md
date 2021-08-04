@@ -34,10 +34,8 @@ Determine sales trends for city/counties
 <br>
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/drusho/webscrape_youtube/main/reports/figures/word_frequency (wordcloud).png" width=300 height=200> -->
+<img src="https://github.com/drusho/bigquery_liquor_sales/blob/main/reports/figures/sale_items_cat%20(bar_plot).gif">
 <br>
-
-<
 
 
 
@@ -51,6 +49,6 @@ Determine sales trends for city/counties
 <br>
 <br>
 
-## Project Links
+<!-- ## Project Links -->
 
 
